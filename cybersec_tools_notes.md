@@ -165,11 +165,3 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt ssh://192.168.1.1
 
 ---
 
-## 📚 Recommended Next Steps
-
-- [ ] Try **TryHackMe** (beginner-friendly guided labs)
-- [ ] Set up a **Kali Linux VM** as your main pentesting environment
-- [ ] Practice Nmap on your local network (your own devices)
-- [ ] Use **Metasploitable 2** as a vulnerable target VM
-- [ ] Complete a full Wireshark capture analysis on a CTF challenge
-- [ ] Run Hydra against a local test machine (never live targets!)
