@@ -30,3 +30,4 @@ als Angriffsmaschine — alle über ein privates virtuelles Netzwerk verbunden.
 
 
 
+![Homelab Diagram](homelab.png)
