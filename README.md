@@ -26,7 +26,7 @@ Ich wollte verstehen, wie echte Netzwerksicherheitsumgebungen funktionieren — 
 [ Kali Linux ]──────┐
                     ├──[ pfSense Firewall ]──[ VMware NAT ]──[ Internet ]
 [ Debian Server ]───┘
-     (LAN: 10.10.10.x — isolated virtual network)
+     (LAN: 192.168.100.x — isolated virtual network)
 ```
 
 > 📸 See `network-diagram.png` for the full visual layout.
